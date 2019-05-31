@@ -18,7 +18,10 @@ server.get('/', (req, res) => {
   //routing and API:
   
   const projectRouter = require('./data/routers/projectRouter.js');
+  const actionRouter = require('./data/routers/actionRouter.js');
   server.use('/api/projects', projectRouter);
+  server.use('/api/actions', actionRouter);
+  
 
 
 

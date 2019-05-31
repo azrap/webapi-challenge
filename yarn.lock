@@ -1741,6 +1741,11 @@ node-pre-gyp@^0.12.0:
     semver "^5.3.0"
     tar "^4"
 
+nodemo@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/nodemo/-/nodemo-1.0.0.tgz#1e7242ff21d43e5a14b41a15cc724f6e396893f2"
+  integrity sha1-HnJC/yHUPloUtBoVzHJPbjlok/I=
+
 nodemon@^1.19.1:
   version "1.19.1"
   resolved "https://registry.yarnpkg.com/nodemon/-/nodemon-1.19.1.tgz#576f0aad0f863aabf8c48517f6192ff987cd5071"
